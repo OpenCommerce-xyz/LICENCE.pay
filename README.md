@@ -1,6 +1,6 @@
 # AILicense.pay - Monetize Your AI Code Usage
 
-**AILicense.pay** is a licensing format that enables monetization of open-source software strictly for AI usage. It allows developers to set clear terms for code usage by AI while ensuring fair compensation.
+**License.pay** is a licensing format that enables monetization of open-source software strictly for AI usage. It allows developers to set clear terms for code usage by AI while ensuring fair compensation.
 
 ## Three Simple Steps
 
