@@ -1,6 +1,6 @@
-# License.pay - Monetize Your Github
+# LICENSE.pay - Monetize Your Github
 
-[**License.pay**](https://licence-pay-app.vercel.app/) is a licensing format that enables monetization of open-source software strictly for AI usage. It allows developers to set clear terms for code usage by AI while ensuring fair compensation.
+[**LICENSE.pay**](https://licence-pay-app.vercel.app/) is a licensing format that enables monetization of open-source software strictly for AI usage. It allows developers to set clear terms for code usage by AI while ensuring fair compensation.
 
 
 ## Three Simple Steps
