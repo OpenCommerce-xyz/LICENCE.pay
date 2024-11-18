@@ -24,7 +24,7 @@ pip install opencommerce-sdk
 ```python
 from opencommerce_sdk import OpenCommerceAccountToolkit
 
-# For testing
+# For production
 sdk = OpenCommerceAccountToolkit(network='production')
 
 # For testing
@@ -37,26 +37,13 @@ account_address = sdk.get_account_address()
 print(f"Your account is ready: {account_address}")
 ```
 
-4. **Fund Your Account**
+4. **Fund Your Account (You need ETH to send transactions and offramp)**
 - Use the funding widget:
 ```python
 sdk.prompt_funding()
 ```
 - Or send funds directly to your account address using your preferred wallet
 
-5. **Send Transactions**
-```python
-sdk.send_money(
-    recipient_address='0xRecipientAddressHere',  # Address of the exchange or off-ramp
-    amount_usdc=50.0  # Amount to transfer in USDC
-)
-```
-
-## Implementation Steps
-
-1. **Create Account**: Use OpenCommerce SDK to open an account for receiving and managing stablecoins
-2. **Generate License**: Use our wizard to generate your custom LICENSE.pay file
-3. **Deploy**: Place LICENSE.pay in your repository root
 
 ## License
 
