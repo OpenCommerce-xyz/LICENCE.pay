@@ -38,11 +38,11 @@ print(f"Your account is ready: {account_address}")
 ```
 
 4. **Fund Your Account (You need ETH to send transactions and offramp)**
-- Use the funding widget:
+
 ```python
 sdk.prompt_funding()
 ```
-- Or send funds directly to your account address using your preferred wallet
+- Or send funds directly to your account address using your preferred wallet/exchange.
 
 
 ## License
