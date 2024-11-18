@@ -1,17 +1,17 @@
 # License.pay - Monetize Your Github
 
-**License.pay** is a licensing format that enables monetization of open-source software strictly for AI usage. It allows developers to set clear terms for code usage by AI while ensuring fair compensation.
+[**License.pay**](https://vercel.com/open-commerce/licence-pay-app) is a licensing format that enables monetization of open-source software strictly for AI usage. It allows developers to set clear terms for code usage by AI while ensuring fair compensation.
 
 ## Three Simple Steps
 
 1. **Use OpenCommerce SDK**  
-   Integrate our SDK to start receiving payments from AI agents
+   Integrate our SDK to open an account and start receiving payments from AI agents.
 
 2. **Create LICENSE.pay**  
-   Use our [wizard](https://licence-pay-app.vercel.app/) to generate your custom license file
+   Use our [wizard](https://licence-pay-app.vercel.app/) to generate your custom license file.
 
 3. **Add to GitHub**  
-   Place LICENSE.pay in your repository root
+   Place LICENSE.pay in your repository root.
 
 ## Quick Start
 
