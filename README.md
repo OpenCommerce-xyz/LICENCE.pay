@@ -2,6 +2,7 @@
 
 [**License.pay**](https://licence-pay-app.vercel.app/) is a licensing format that enables monetization of open-source software strictly for AI usage. It allows developers to set clear terms for code usage by AI while ensuring fair compensation.
 
+
 ## Three Simple Steps
 
 1. **Use OpenCommerce SDK**  
@@ -12,6 +13,7 @@
 
 3. **Add to GitHub**  
    Place LICENSE.pay in your repository root.
+
 
 ## Quick Start
 
@@ -38,16 +40,17 @@ print(f"Your account is ready: {account_address}")
 ```
 
 4. **Fund Your Account (You need ETH to send transactions and offramp)**
-
 ```python
 sdk.prompt_funding()
 ```
 - Or send funds directly to your account address using your preferred wallet/exchange.
 
 
+
 ## License
 
 This project is licensed under the MIT License.
+
 
 ## Support
 
