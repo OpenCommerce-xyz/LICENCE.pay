@@ -1,4 +1,4 @@
-# LICENCE.pay - Monetize Your Github
+# LICENCE.pay - LICENCE.pay: Ensuring Fair Compensation for Open Source Usage in AI
 
 ## Background
 AI is using more and more open-source code to train models and power applications, but the developers behind this code aren't getting paid for their work. It's a problem: AI companies are making money, but the creators of the code they rely on aren't seeing a share of that value. LICENCE.pay changes this by letting developers set clear terms for how their code can be used by AI, making sure they get compensated fairly without giving up the spirit of open source.
