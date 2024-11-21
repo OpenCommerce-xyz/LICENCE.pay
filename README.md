@@ -1,6 +1,6 @@
 # LICENCE.pay - Monetize Your Github
 
-## Backgroundey
+## Background
 AI is using more and more open-source code to train models and power applications, but the developers behind this code aren't getting paid for their work. It's a problem: AI companies are making money, but the creators of the code they rely on aren't seeing a share of that value. LICENCE.pay changes this by letting developers set clear terms for how their code can be used by AI, making sure they get compensated fairly without giving up the spirit of open source.
 
 You can create a LICENCE.pay file, save it in your GitHub repository, and start getting fair compensation for your code. It’s simple to set up and ensures that your contributions are valued when used by AI systems for training or inference.
